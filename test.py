@@ -1,1 +1,2 @@
-print('hello world')
+nama = 'dean'
+print('My name is' + ' ' + nama)
